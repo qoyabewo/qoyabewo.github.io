@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://qoyabewo.github.io/sitemap/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/dTt/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/BeH/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/ghD/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/wCQ/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/WbN/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/BSo/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/uPU/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/nPv/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/pGq/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/XKC/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/CKi/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/ero/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/JSH/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/mPM/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/bJl/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/nck/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/Wgu/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/mQl/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/Qcn/sitemap_index.qoyabewo
+Sitemap: https://qoyabewo.github.io/rYE/sitemap_index.qoyabewo
